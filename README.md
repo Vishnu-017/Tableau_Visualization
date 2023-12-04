@@ -1,5 +1,4 @@
 1. Tableau Tools Usage:
-
 Tableau is a powerful data visualization tool that allows users to create interactive and shareable dashboards. It provides a user-friendly interface for connecting to various data sources, performing data analysis, and creating visualizations.
 
 2. Dynamic Charts:
